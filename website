@@ -1,0 +1,31 @@
+<section id="mentorship" class="py-20 bg-white px-6">
+        <div class="max-w-5xl mx-auto">
+            <h2 class="section-title">Mentorship & Student Success</h2>
+            <p class="text-slate-600 mb-10 text-lg">Guiding the next generation of aerospace pioneers through hands-on laboratory experience and real-world mission participation.</p>
+            
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="p-6 rounded-2xl bg-blue-50 border border-blue-100">
+                    <h3 class="font-bold text-xl text-blue-900 mb-2">AmiSat Student Team</h3>
+                    <p class="text-slate-600">Supervised a multidisciplinary team of 20+ students in the design and development of a 4U CubeSat, leading to successful technical reviews with national space agencies.</p>
+                </div>
+                <div class="p-6 rounded-2xl bg-blue-50 border border-blue-100">
+                    <h3 class="font-bold text-xl text-blue-900 mb-2">Career Placements</h3>
+                    <p class="text-slate-600">Successfully mentored graduates who have gone on to secure positions at major aerospace firms, national space agencies, and prestigious PhD programs globally.</p>
+                </div>
+            </div>
+
+            <div class="mt-12 p-8 bg-slate-900 rounded-3xl text-white flex flex-col md:flex-row items-center gap-8">
+                <div class="md:w-1/2">
+                    <h3 class="text-2xl font-bold mb-4">Hands-on Learning Model</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-center"><i class="fas fa-check-circle text-blue-400 mr-2"></i> Real-time satellite data analysis</li>
+                        <li class="flex items-center"><i class="fas fa-check-circle text-blue-400 mr-2"></i> Clean-room protocol training</li>
+                        <li class="flex items-center"><i class="fas fa-check-circle text-blue-400 mr-2"></i> Mission simulation & operations</li>
+                    </ul>
+                </div>
+                <div class="md:w-1/2">
+                    
+                </div>
+            </div>
+        </div>
+    </section>
